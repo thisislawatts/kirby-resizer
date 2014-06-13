@@ -1,0 +1,11 @@
+.ui-resizable img {
+	max-width: 100%;
+	height: auto !important;
+}
+
+#resizer--save {
+	position: fixed;
+	bottom: 1em;
+	right: 1em;
+	z-index: 999999;
+}
